@@ -158,6 +158,11 @@ $spotify = strip_tags(render($content['field_spotfiy']));
 					<img src="<?php print "sites/default/files/stitcherheader.png";?>" class="stitcher-logo" width="70px">
 				</a>
 			</div>
+			<div class="spotify-mobile mobile-icon">
+				<a class="spotify-link" href="<?php print $spotify ?>" target="_blank">
+					<img src="<?php print "sites/all/themes/blogger_theme/images/spotify_2015.png";?>" class="stitcher-logo" width="70px">
+				</a>
+			</div>
 		</div>
 		<div class="tags"><?php print $tags; ?></div>
 	</div>

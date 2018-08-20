@@ -110,6 +110,11 @@ $spotify = $fields['field_spotfiy']->content;
 					<img src="<?php print "sites/default/files/stitcherheader.png";?>" class="stitcher-logo" width="70px">
 				</a>
 			</div>
+			<div class="stitcher-mobile mobile-icon">
+				<a class="spotify-link" href="<?php print $spotify ?>" target="_blank">
+					<img src="<?php print "sites/all/themes/blogger_theme/images/spotify_2015.png";?>" class="stitcher-logo" width="70px">
+				</a>
+			</div>
 		</div>
 		<p class="tags-label">Tags:</p>
 		<div class="tags"><?php print $tags; ?></div>
