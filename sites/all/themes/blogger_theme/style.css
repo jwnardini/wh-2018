@@ -1223,7 +1223,7 @@ figure.effect-lily:hover p {
     border-radius:5px;
     float:left;
   }
-    a.itunes-link:hover {
+    a.itunes-link:hover, a.spotify-link:hover {
     background-color: rgba(0,0,0,.7);
   }
     img.googleplay-logo {

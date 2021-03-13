@@ -107,8 +107,6 @@ bitly : {}
             <div class="social-links-fullscreen">
                 <p class="slogan-final">The podcast where we watch only the pilot and series finale of random TV shows</p>
                 <a href="http://www.twitter.com/whathappending" target="_blank"><img src="http://www.whathappending.com/sites/default/files/twitterheader.png" class="header-icon" width="80px"></a>
-
-                <a href="http://www.facebook.com/whathappending" target="_blank"><img src="http://www.whathappending.com/sites/default/files/facebookheader.svg" class="header-icon" width="80px"></a>
                 
                 <a href="https://www.instagram.com/whathappending/" target="_blank"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/app-icon2.png" class="header-icon" width="80px"></a>
 
@@ -117,8 +115,6 @@ bitly : {}
                 <br>
 
                 <a href="https://itunes.apple.com/us/podcast/what-happending/id1074483687?mt=2" target="_blank"><img src="http://www.whathappending.com/sites/default/files/itunesheader.png" class="header-icon" width="80px"></a>
-
-                <a href="https://play.google.com/music/m/Iwmaptwmuz7o2rsos4ofpj4p3wq?t=What_Happending" target="_blank"><img src="http://www.whathappending.com/sites/default/files/googleplayheader.png" class="header-icon" width="80px"></a>
 
                 <a href="http://www.stitcher.com/podcast/what-happending" target="_blank"><img src="http://www.whathappending.com/sites/default/files/stitcherheader.png" class="header-icon" width="80px"></a>
 
@@ -146,8 +142,6 @@ bitly : {}
                 <p class="slogan-final">The podcast where we watch only <span class="hidden-break"><br></span> the pilot and series finale <span class="hidden-break"><br></span> of random TV shows</p>
                 <div class="links-left">
                 <div class="social-link-ipad"><a href="http://www.twitter.com/whathappending" target="_blank"><img src="http://www.whathappending.com/sites/default/files/twitterheader.png" width="40px"></a></div>
-
-                <div class="social-link-ipad"><a href="http://www.facebook.com/whathappending" target="_blank"><img src="http://www.whathappending.com/sites/default/files/facebookheader.svg" width="40px"></a></div>
                 
                 <div class="social-link-ipad"><a href="https://www.instagram.com/whathappending/" target="_blank"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/app-icon2.png" width="40px"></a></div>
 
@@ -156,8 +150,6 @@ bitly : {}
                 <div class="hidden-break"><br></div>
 
                 <div class="social-link-ipad"><a href="https://itunes.apple.com/us/podcast/what-happending/id1074483687?mt=2" target="_blank"><img src="http://www.whathappending.com/sites/default/files/itunesheader.png" width="40px"></a></div>
-                
-                <div class="social-link-ipad"><a href="https://play.google.com/music/m/Iwmaptwmuz7o2rsos4ofpj4p3wq?t=What_Happending" target="_blank"><img src="http://www.whathappending.com/sites/default/files/googleplayheader.png" width="40px"></a></div>
                 
                 <div class="social-link-ipad"><a href="http://www.stitcher.com/podcast/what-happending" target="_blank"><img src="http://www.whathappending.com/sites/default/files/stitcherheader.png" width="40px"></a></div>
 

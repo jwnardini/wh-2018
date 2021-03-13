@@ -87,7 +87,6 @@ $desc = render($content['field_description']);
 $player = render($content['body']);
 $tags = render($content['field_episode_tags']);
 $itunes = strip_tags(render($content['field_itunes_link']));
-$googleplay = strip_tags(render($content['field_googleplay_link']));
 $stitcher = strip_tags(render($content['field_stitcher_link']));
 $directdownload = strip_tags(render($content['field_directdownload_link']));
 $spotify = strip_tags(render($content['field_spotfiy']));
@@ -111,7 +110,6 @@ $spotify = strip_tags(render($content['field_spotfiy']));
 				<p>
 				<a class="directdownload-link" href="<?php print $directdownload ?>" target="_blank"><img src="<?php print $base_path . $theme_path . "/images/directdownload.png";?>" class="directdownload-logo"></a>
 				<a class="itunes-link" href="<?php print $itunes ?>" target="_blank"><img src="<?php print $base_path . $theme_path . "/images/itunes.svg";?>" class="itunes-logo"></a>
-				<a class="googleplay-link" href="<?php print $googleplay ?>" target="_blank"><img src="<?php print $base_path . $theme_path . "/images/googleplay.png";?>" class="googleplay-logo"></a>
 				<a class="spotify-link" href="<?php print $spotify ?>" target="_blank"><img src="<?php print $base_path . $theme_path . "/images/spotify-logo.svg";?>" class="spotify-logo"></a>
 				<a class="stitcher-link" href="<?php print $stitcher ?>" target="_blank"><img src="<?php print $base_path . $theme_path . "/images/stitcherlogo.png";?>" class="stitcher-logo"></a>
 
@@ -146,11 +144,6 @@ $spotify = strip_tags(render($content['field_spotfiy']));
 			<div class="itunes-mobile mobile-icon">
 				<a class="itunes-link" href="<?php print $itunes ?>" target="_blank">
 					<img src="<?php print "sites/default/files/itunesheader.png";?>" class="itunes-logo" width="70px">
-				</a>
-			</div>
-			<div class="googleplay-mobile mobile-icon">
-				<a class="googleplay-link" href="<?php print $googleplay ?>" target="_blank">
-					<img src="<?php print "sites/default/files/googleplayheader.png";?>" class="googleplay-logo" width="70px">
 				</a>
 			</div>
 			<div class="stitcher-mobile mobile-icon">
